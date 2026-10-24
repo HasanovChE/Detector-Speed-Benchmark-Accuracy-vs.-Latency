@@ -211,7 +211,7 @@ Upon completion, the project will generate:
 | YOLOv8_640 | 640x640 | 0.995 | 0.7495 | 233.70 | 537.18 | 4.28 |
 
 **Accuracy vs. Latency**
-![Accuracy vs Latency](image_8e2bd0.png)
+![Accuracy vs Latency](accuracy_vs_latency.png)
 
 **Conclusion & Recommendation**
 Based on the benchmark testing, **no configuration meets both the mean and P95 latency requirements below 100 ms** on the current CPU hardware.
