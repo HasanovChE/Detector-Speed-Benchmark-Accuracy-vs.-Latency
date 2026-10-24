@@ -1,0 +1,8 @@
+No configuration meets both mean and P95 latency
+requirements below 100 ms. Optimize or test faster
+hardware before deployment.
+
+Strict requirement: mean < 100 ms
+AND P95 < 100 ms.
+Detector-only latency; downstream system latency
+will be higher.
